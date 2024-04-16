@@ -1,2 +1,5 @@
 ﻿https://learn.microsoft.com/en-us/aspnet/signalr/overview/getting-started/tutorial-getting-started-with-signalr-and-mvc
 https://medium.com/@adam.awity/signalr-with-net-framework-and-angular-backend-side-dccdfd79a8b
+
+
+
