@@ -9,10 +9,10 @@ namespace SignalRServerDotNetFramework.Scheduler
     {
         public static async void Start()
         {
-            StdSchedulerFactory factory = new StdSchedulerFactory();
+            var factory = new StdSchedulerFactory();
 
             // get a scheduler
-            IScheduler scheduler = await factory.GetScheduler();
+            var scheduler = await factory.GetScheduler();
             await scheduler.Start();
 
             //이건 1초
